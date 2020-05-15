@@ -8,6 +8,12 @@
 	background: linear-gradient(90deg, rgba(139,40,38,1) 0%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
 }
 
+@media only screen and (max-width: 575px) {
+	#long-text-2{
+		font-size: 12px;
+	}
+}
+
 #img-1 {
 	filter: saturate(180%);
 }
@@ -78,7 +84,7 @@ img { max-width: 100%; }
 	-moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%;
 }
 
-.testimonial-list .testimonial-text { margin-top: 30px; font-size: 14px;}
+.testimonial-list .testimonial-text { margin-top: 30px;}
 .testimonial-list .testimonial-text p { padding:5px; opacity: 0.8; text-rendering: optimizeSpeed; line-height: 24px; }
 
 
