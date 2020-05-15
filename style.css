@@ -8,7 +8,8 @@
 @import url(css/font-awesome.min.css);
 
 #background {
-  background:linear-gradient(90deg, rgba(139,40,38,1) 0%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
+  background: rgb(139,40,38);
+  background: linear-gradient(90deg, rgba(139,40,38,1) 0%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
 }
 
 .people-img {
