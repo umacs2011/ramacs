@@ -278,6 +278,7 @@ ul {
   -ms-flex-pack: center;
   justify-content: center; }
   #preloader .preloader-thumbnail {
+    filter: brightness(150%);
     max-width: 50px;
     -webkit-animation: pocarotate linear 1s infinite;
     animation: pocarotate linear 1s infinite; }
@@ -300,7 +301,14 @@ ul {
     -webkit-transform: rotate(360deg);
     -ms-transform: rotate(360deg);
     transform: rotate(360deg); } }
-
+@keyframes preloader-text {
+  0% {opacity: 0;}
+  50% {opacity: 1;}
+  100% {opacity: 0;}
+}
+#preloader .preloader-text {
+  animation: preloader-text linear 0.5s infinite;
+}
 .section-heading {
   position: relative;
   z-index: 1;
