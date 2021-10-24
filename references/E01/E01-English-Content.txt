@@ -1,0 +1,37 @@
+1.
+Lo, Hoi-Kwong & Lütkenhaus, Norbert. (2007). Quantum Cryptography: from Theory to Practice. 63. 
+
+2.
+utimaco, Post-quantum cryptography: Secure Encryption For the quantum age, 2019
+
+3.
+Accenture LAb, Cryptography in a Post-quantum World, 2018
+
+4.
+https://phys.org/news/2021-09-quantum-transmission-protocol-higher-robustness.html
+
+5.
+https://phys.org/news/2021-10-potential-quantum-comprised-small-processor.html 
+
+6.
+
+
+
+https://phys.org/news/2021-10-quantum-networking-milestone-real-world-environment.html
+
+
+
+
+7.
+https://phys.org/news/2021-10-foundational-quantum-sum.html
+
+8.
+
+
+
+https://phys.org/news/2021-09-superconducting-flakes-components-quantum.html
+
+
+
+9.
+https://phys.org/news/2021-09-optical-chip-quantum-technology-errors.html
